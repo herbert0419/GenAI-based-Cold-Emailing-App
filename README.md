@@ -1,0 +1,1 @@
+# GenAI-based-Cold-Emailing-App
